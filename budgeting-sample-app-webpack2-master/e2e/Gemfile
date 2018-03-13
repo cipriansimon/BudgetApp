@@ -1,0 +1,7 @@
+gem 'cucumber'
+gem 'sinatra'
+gem 'watir'
+gem 'rspec'
+gem 'power_assert'
+gem 'pretty_face'
+source 'https://rubygems.org'
