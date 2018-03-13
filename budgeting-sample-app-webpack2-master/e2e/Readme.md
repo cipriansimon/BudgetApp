@@ -1,11 +1,11 @@
-#Project Title
+# Project Title
 Budgeting assignment resolution automation testing - My first contact with ruby
 Budget Sample app is a basic bugeting application designed to have a better track of one's expense and incomes. It comes with a reporting tool.
 
 ## Prerequisites
 [testing was conducted on the live demo](https://budgeting-a937b.firebaseapp.com/).
 [Test plan for the applications can be found here](TestPlan/Test_Plan_Budge_Sample_Application.doc)
-Clone (enter_link_here) project. The testing part is in the e2e folder of the application. 
+Clone (https://github.com/cipriansimon/BudgetApp/tree/master/budgeting-sample-app-webpack2-master) project. The testing part is in the e2e folder of the application. 
 
 ### Installing
 
